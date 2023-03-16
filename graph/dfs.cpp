@@ -4,7 +4,7 @@ using namespace std;
 struct edge{
     int u; // from
     int v; // to
-    int w; // cost / weight
+    int w; // cost or weight
 };
 
 const int N=1e5+10;
