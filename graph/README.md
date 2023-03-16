@@ -34,5 +34,8 @@ ____________________________________________________________________
 
 Flow related algorithms start from here:
 
-mflow     -  Max flow Ford Fulkerson code
+ford_mflow     -  Max flow using Ford Fulkerson algorithm code
+edmond_mflow   -  Max flow using edmond karp algorithm code
+capscale_mflow -  Max flow using capacity scaling algorithm code
+dinic_mflow    -  Max flow using Dinic's algorithm code
 
