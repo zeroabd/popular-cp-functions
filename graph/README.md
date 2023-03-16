@@ -9,7 +9,7 @@ dfs       -  Depth First Search code
 
 bfs       -  Breadth First Search code
 
-dijk      -  Dijkstra's shortest path code
+dij      -  Dijkstra's shortest path code
 
 topsort   -  Topological Sort code
 
